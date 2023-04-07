@@ -1,0 +1,13 @@
+body {
+  background: rgb(4, 4, 85);
+}
+
+h1,
+h2,
+h3 {
+  color: white;
+}
+
+.lista {
+  color: greenyellow;
+}

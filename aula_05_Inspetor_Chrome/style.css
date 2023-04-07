@@ -1,0 +1,17 @@
+body {
+  background: rgb(235, 180, 247);
+  background-image: url(https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TXDGVXPBEVMY5PA2RHRF2EA25Y.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1,
+h2,
+h3 {
+  color: white;
+  border: 2px solid orangered;
+}
+
+.lista {
+  color: rgb(0, 0, 0);
+}

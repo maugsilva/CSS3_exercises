@@ -1,0 +1,19 @@
+h1 {
+  font-family: "JetBrains Mono";
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: left;
+  text-decoration: line-through;
+}
+
+#textp {
+  text-transform: capitalize;
+  color: rgb(0, 81, 255);
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 2;
+}
